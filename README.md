@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohamed shipet (superior)</h1>
-<h3 align="center">A passionate software enginer specific in backend development</h3>
+<h3 align="center">A passionate software engineer specific in backend development</h3>
 
 - 🔭 I’m currently working on **cloudspark**
 
