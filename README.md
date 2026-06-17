@@ -108,7 +108,7 @@ Educational platform with organized explanations and curated learning resources.
 # 🌐 Connect With Me
 
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/mohamed-shipet-700864266/)
-- 🌍 Portfolio: YOUR_PORTFOLIO
+- 🌍 Portfolio: [portofolio](https://my-protofilio.vercel.app/)
 - 📧 Email: mohamedshipet4@gmail.com
 
 ---
